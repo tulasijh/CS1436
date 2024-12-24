@@ -1,4 +1,4 @@
-# CS 1436 - Introduction to Computer Science I  
+# CS 1436 - Programming Fundamentals
 
 ### Course Overview  
 CS 1436 at the University of Texas at Dallas is an introductory course in computer science, primarily focusing on problem-solving techniques, algorithm development, and structured programming using C++. The course emphasizes foundational programming concepts and software development skills.  
